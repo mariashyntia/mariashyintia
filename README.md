@@ -12,7 +12,7 @@
   &center=true
   &vCenter=true
   &width=700
-  &lines=lebih+suka+red+velvet;kalau+suka+kamu;pahit+soalnya+😅" />
+  &lines=lebih+suka+redvelvet+kalau+suka+kamu+pahit+soalnya+😅" />
 </p>
 
 
