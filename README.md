@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=lebih+suka+redvelvet+kalau+suka+kamu+pahit" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=lebih+Suka+Redvelvet+Kalau+Suka+Kamu+Pahit+Soalnya" />
 </p>
 
 <p align="center">
