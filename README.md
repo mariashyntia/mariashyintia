@@ -3,8 +3,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=lebih+Suka+Redvelvet+Kalau+Suka+Kamu+Pahit+Soalnya" />
+  <img src="https://readme-typing-svg.demolab.com
+  ?font=Pacifico
+  &size=28
+  &duration=200
+  &pause=1000
+  &color=FF1493
+  &center=true
+  &vCenter=true
+  &width=700
+  &lines=lebih+suka+red+velvet;kalau+suka+kamu;pahit+soalnya+😅" />
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
