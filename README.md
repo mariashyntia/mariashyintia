@@ -20,5 +20,10 @@
   &center=true
   &vCenter=true
   &width=700
-  &lines=Creative+Developer;Sistem+Pakar+%26+IoT;Belajar+Pelan+Tapi+Pasti" />
+  &lines=Sistem+Pakar+%26+IoT;Mahasiswa+Informatika;Belajar+Pelan+Tapi+Jalan" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-LEARNING-6E8B3D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-SISTEM_PAKAR-success?style=for-the-badge" />
 </p>
